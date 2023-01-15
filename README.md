@@ -40,7 +40,7 @@ __3. Oceń interfejs aplikacji (wygląd) – czy Ci się podoba, czy nie?__
 ![darescout](https://user-images.githubusercontent.com/121487022/212549101-1329cd9b-2a55-4c58-950d-fc6c87bdcb79.jpg)
 
 __4. Czy aplikacja jest intuicyjna? (Intuicyjna, czyli np. nie masz problemu ze zrozumieniem, co należy kliknąć, żeby wejść do formularza dodawania nowego zawodnika piłki nożnej do systemu).__
-* <p align="justify">Aplikacja nie jest intuicyjna i samo położenie przykładowego guzika dodania nowego zawodnika jest dla mnie nie logiczne. Dodanie zawodnika możliwe jest tylko z poziomu strony głównej. Co wymaga przy każdym kolejnym dodawaniu nowego zawodnika cofania się do tej strony. </p>
+* <p align="justify">Aplikacja nie jest intuicyjna i samo położenie przykładowego guzika dodania nowego zawodnika jest dla mnie nielogiczne. Dodanie zawodnika możliwe jest tylko z poziomu strony głównej. Co wymaga przy każdym kolejnym dodawaniu nowego zawodnika cofania się do tej strony. </p>
 
 __5. Czy zauważasz jakieś błędy? Albo coś wydaje Ci się błędem? Zapisz swoje przemyślenia w pliku. Tutaj masz na to miejsce, czas i przestrzeń! ;)__
 

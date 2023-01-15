@@ -15,7 +15,7 @@ _<p align="justify">Uczę się i ten program jest kolejnym krokiem żeby zbliży
 
 __1. Na czym polega ta aplikacja? Do czego służy?__
   * Aplikacja $\textcolor{red}{Scouts\ Panel}$ służy do _zarządzania graczami, meczami i do tworzenia raportów._
-  * <p align="justify">Działanie aplikacji polega na tworzeniu profili zawodników piłki nożnej. Aplikacja pozwala stworzyć profil z informacjami takimi jak m.in. wzrost, wiek, waga, klub czy pozycja. Aplikacja umożliwia dodawanie informacji o rozegranych przez zawodnika meczach jak również generacje raportu z analizą sportowej aktywności podczas rozgrywki. Aplikacja umożliwia gromadzenie danych o zawodnikach, generowanie raportów meczowych i recenzja potencjału zawodnika</P>
+  * <p align="justify">Działanie aplikacji polega na tworzeniu profili zawodników piłki nożnej. Aplikacja pozwala stworzyć profil z informacjami takimi jak m.in. wzrost, wiek, waga, klub czy pozycja. Aplikacja umożliwia dodawanie informacji o rozegranych przez zawodnika meczach jak również generacje raportu z analizą sportowej aktywności podczas rozgrywki. Aplikacja umożliwia gromadzenie danych o zawodnikach, generowanie raportów meczowych i recenzja potencjału zawodnika.</P>
   
 __2. Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są intuicyjne, czy może byś coś zmienił_a? (Nie bój się wyrażać opinię!).__
 __wymienie 10 przykładowych funkcjonalności__

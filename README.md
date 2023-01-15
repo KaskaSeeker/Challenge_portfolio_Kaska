@@ -44,7 +44,7 @@ __4. Czy aplikacja jest intuicyjna? (Intuicyjna, czyli np. nie masz problemu ze 
 
 __5. Czy zauważasz jakieś błędy? Albo coś wydaje Ci się błędem? Zapisz swoje przemyślenia w pliku. Tutaj masz na to miejsce, czas i przestrzeń! ;)__
 
-* <p align="justify"> Tak, zauważam. Są to m.in. przyjmowanie wartości ujemnych w formularzu dodawania nowego zawodnika w polach wzrost i waga. Kolejnym błędem w tym samym formularzu jest w polu data urodzenia możliwość dodania daty przyszłej czy też daty skrajnie odległej z przeszłości jak np. rok 1205. W tym samym formularzy przy parametrze "Pozycja główna" i "Pozycja alternatywna" można wpisać jakiekolwiek słowo czy liczbę nie mające związku z tymi pozycjami. Ponadto dodanie raportu o zawodniku wymaga aby w profilu zawodnika została uzupełniona informacja o wojewódzkie kiedy pole to nie jest wymagane.</p>
+* <p align="justify"> Tak, zauważam. Są to m.in. przyjmowanie wartości ujemnych w formularzu dodawania nowego zawodnika w polach wzrost i waga. Kolejnym błędem w tym samym formularzu jest w polu data urodzenia możliwość dodania daty przyszłej czy też daty skrajnie odległej z przeszłości jak np. rok 1205. W tym samym formularzy przy parametrze "Pozycja główna" i "Pozycja alternatywna" można wpisać jakiekolwiek słowo czy liczbę nie mające związku z tymi pozycjami. Ponadto dodanie raportu o zawodniku wymaga aby w profilu zawodnika została uzupełniona informacja o województwie kiedy pole to nie jest wymagane.</p>
 
 ![image](https://user-images.githubusercontent.com/121487022/212550212-42309cf4-4687-4d16-9016-88feb21bd72b.png)
 

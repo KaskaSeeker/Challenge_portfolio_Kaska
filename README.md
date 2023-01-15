@@ -53,8 +53,8 @@ __5. Czy zauważasz jakieś błędy? Albo coś wydaje Ci się błędem? Zapisz s
 
 ![image](https://user-images.githubusercontent.com/121487022/212550441-76d30c3d-ad51-4dcb-8b7f-8e1a37d0a83d.png)
 
-
-
+## $\textcolor{green}{Subtask\ 5}$
+* Jira - projekt: https://kaskaseeker.atlassian.net/jira/software/projects/CPK/boards/1 
 
 
 ***

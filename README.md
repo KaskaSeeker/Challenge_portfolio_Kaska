@@ -57,9 +57,9 @@ __5. Czy zauważasz jakieś błędy? Albo coś wydaje Ci się błędem? Zapisz s
 * Jira - projekt: https://kaskaseeker.atlassian.net/jira/software/projects/CPK/boards/1 
 
 # $\textcolor{red}{Task\ 2 }$
-## $\textcolor{green}{Subtask\ 1}$
+## $\textcolor{red}{Subtask\ 1}$
 * https://docs.google.com/spreadsheets/d/1AEyh1ODwBvXqr6g5A_6cmBcwUVQD9E_2JIDubxtvawM/edit?usp=share_link
-## $\textcolor{green}{Subtask\ 2}$
+## $\textcolor{red}{Subtask\ 2}$
 * https://docs.google.com/spreadsheets/d/1vuyt3FxnPkFPv3KshgpyYcHQEX91TwYYYGtV_gVzof8/edit?usp=share_link
 ## $\textcolor{red}{Subtask\ 3}$
 > __Po co piszemy test case’y?.__

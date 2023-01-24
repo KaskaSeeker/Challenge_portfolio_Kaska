@@ -64,7 +64,9 @@ __5. Czy zauważasz jakieś błędy? Albo coś wydaje Ci się błędem? Zapisz s
 ## $\textcolor{red}{Subtask\ 3}$
 > __Po co piszemy test case’y?.__
 <p align="justify">Odpowiem na to pytanie na przykładzie. Ktoś wymyślił aplikacje, która pozwala na dostęp do wszystkich kont bankowych jakie użytkownik do tej aplikacji doda z jednej wspólnej aplikacji zamiast dedykowanej dla banku. I tak jest pomysł, twórca spisał jak aplikacja ma wyglądać, jak ma działać, jakie mają być funkcjonalności, jak aplikacja ma się zachować w przypadku próby nieuprawnionych dostępów etc. Test casy pozwalają krok po kroku sprawdzić wszystkie warstwy działania tej aplikacji z punktów widzenia różnych użytkowników takich jak twórca, haker, deweloper, support czy zwykły Kowalski, który będzie użytkownikiem końcowym tej aplikacje. Ponadto testy case umożliwią weryfikacje jak aplikacja współpracuje z innymi aplikacjami, bankami etc. Test case służą przede wszystkim sprawdzeniu przed oficjalnym udostepnieniem aplikacji użytkownikom, że spełnia on wymagania takie jak bezpieczeństwa, stabilności i nie narazi uzytkownika jak i własciciela na straty czy to finansowe czy reputacji. </p>:+1:
+
 ## $\textcolor{red}{Subtask\ 4}$
 * https://docs.google.com/spreadsheets/d/1LoXivrbCj4B5XkPIkCuVfSC9KQlAXF_DWfj7_2iTi-s/edit?usp=sharing
+
 ***
 ***Kaśka***

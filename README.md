@@ -74,7 +74,7 @@ _Utworzenie formatki do zgłaszania błędów systemu._ - https://docs.google.co
 ## $\textcolor{blue}{Subtask\ 2}$
 _Testowanie według planów testów i raportowanie błędów._ - https://docs.google.com/spreadsheets/d/12EuJSMnDSLTuqU_cqPDJ0bmXj91PsR7cnLsZwDZrNfE/edit?usp=sharing
 ## $\textcolor{blue}{Subtask\ 3}$
-_Raport z wykonanych testów_
+_Raport z wykonanych testów_ - https://docs.google.com/document/d/1xY9QshU_hse6pFw2iFvYIwJFML68XYNK_6w2eU_ZSZE/edit?usp=sharing
 ## $\textcolor{blue}{Subtask\ 4}$
 _Dla grupy i chętnych. Sesja testów eksploracyjnych._
 

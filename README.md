@@ -68,5 +68,15 @@ __5. Czy zauważasz jakieś błędy? Albo coś wydaje Ci się błędem? Zapisz s
 ## $\textcolor{red}{Subtask\ 4}$
 * https://docs.google.com/spreadsheets/d/1LoXivrbCj4B5XkPIkCuVfSC9KQlAXF_DWfj7_2iTi-s/edit?usp=share_link
 
+# $\textcolor{blue}{Task\ 3 }$
+## $\textcolor{blue}{Subtask\ 1}$
+_Utworzenie formatki do zgłaszania błędów systemu._ - https://docs.google.com/spreadsheets/d/12EuJSMnDSLTuqU_cqPDJ0bmXj91PsR7cnLsZwDZrNfE/edit?usp=sharing
+## $\textcolor{blue}{Subtask\ 2}$
+_Testowanie według planów testów i raportowanie błędów._ - https://docs.google.com/spreadsheets/d/12EuJSMnDSLTuqU_cqPDJ0bmXj91PsR7cnLsZwDZrNfE/edit?usp=sharing
+## $\textcolor{blue}{Subtask\ 3}$
+_Raport z wykonanych testów_
+## $\textcolor{blue}{Subtask\ 4}$
+_Dla grupy i chętnych. Sesja testów eksploracyjnych._
+
 ***
 ***Kaśka***

@@ -87,7 +87,7 @@ _Testowanie eksploracyjne i raportowanie błędów._ -  https://focusly.co/ / ht
 _Do czego służy ta aplikacja_ 
 
 __1.Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?__
-> * Aplikacja $\textcolor{red}{Focusly\.}$ skierowana jest do osób którym wydaje się że, spokojony głos innej osoby, motywujące treści w przekazie plus kojące muzyka są lekarstwem na skołatane nerwy
+> * Aplikacja $\textcolor{red}{Focusly\}$ skierowana jest do osób którym wydaje się że, spokojony głos innej osoby, motywujące treści w przekazie plus kojące muzyka są lekarstwem na skołatane nerwy
 > 
 __2.Kto ma być użytkownikiem końcowym aplikacji?__
 > * Każdy kto potrzebuję tego typu treści.

@@ -78,5 +78,18 @@ _Raport z wykonanych testów_ - https://docs.google.com/document/d/1xY9QshU_hse6
 ## $\textcolor{blue}{Subtask\ 4}$
 _Dla grupy i chętnych. Sesja testów eksploracyjnych._
 
+# $\textcolor{yellow}{Task\  }$
+## $\textcolor{yellow}{Subtask\ 1}$
+_Utworzenie formatki do zgłaszania błędów systemu._ - https://docs.google.com/spreadsheets/d/1pFjhnMcJdCHPFbncKNLhGnc0equoQdS3hu2Hpt0OZl8/edit?usp=share_link
+## $\textcolor{yellow}{Subtask\ 2}$
+_Testowanie eksploracyjne i raportowanie błędów._ -  https://focusly.co/ / https://docs.google.com/spreadsheets/d/1pFjhnMcJdCHPFbncKNLhGnc0equoQdS3hu2Hpt0OZl8/edit?usp=share_link
+## $\textcolor{yelloe}{Subtask\ 3}$
+_ Do czego służy ta aplikacja_ 
+**1.Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?**
+-
+
+## $\textcolor{yelloe}{Subtask\ 4}$
+_Dla grupy i chętnych. Sesja testów eksploracyjnych._
+
 ***
 ***Kaśka***

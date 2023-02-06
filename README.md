@@ -85,6 +85,7 @@ _Utworzenie formatki do zgłaszania błędów systemu._ - https://docs.google.co
 _Testowanie eksploracyjne i raportowanie błędów._ -  https://focusly.co/ / https://docs.google.com/spreadsheets/d/1pFjhnMcJdCHPFbncKNLhGnc0equoQdS3hu2Hpt0OZl8/edit?usp=share_link
 ## $\textcolor{yellow}{Subtask\ 3}$
 _Do czego służy ta aplikacja_ 
+
 __1.Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?__
 > * _**10** punktów_ :+1:
 

@@ -87,19 +87,19 @@ _Testowanie eksploracyjne i raportowanie błędów._ -  https://focusly.co/ / ht
 ## $\textcolor{yellow}{Subtask\ 3}$
 _Do czego służy ta aplikacja_ 
 
-__1.Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?__
+__1. Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?__
 > * Aplikacja $\textcolor{red}{Focusly\}$ skierowana jest do osób którym wydaje się że, spokojony głos innej osoby, motywujące treści w przekazie plus kojące muzyka są lekarstwem na skołatane nerwy.
 > 
-__2.Kto ma być użytkownikiem końcowym aplikacji?__
+__2. Kto ma być użytkownikiem końcowym aplikacji?__
 > * Każdy kto potrzebuję tego typu treści.
 
-__3.Czy według Ciebie aplikacja jest user friendly?__
+__3. Czy według Ciebie aplikacja jest user friendly?__
 >* <p align="justify">Design na plus, ładne kolory, przejrzyste menu. Na minus jest widoczny loading podczas przełączenia np. wersji języka, do korzystania z konta wymagane jest oznaczenie zgody do na wykorzystania technologii pozwalających na zbieranie i analizowanie przez focusly informacji o mnie i o tym jak korzystam z aplikacji (...) takie śledzenie nie za bardzo mi się podoba. Dodatkowo powiadomienia ustawione są jako domyślnie włączone co dla mnie jest minusem, jeszcze dobrze nie włączyłam apki a już przychodzą z niej powiadomienia. Na minus dodatkowo jest skalowanie, niektóre opisy nie zmieściły się w polach do tego przeznaczonych a suwak nie jest dostępny. Podobnie po przejściu do "Twórców" nazwiska są dziwnie podzielone, niezgodnie z zasadami. Na minus jeszcze położenie na ekranie głównym guzika Profil powinien być dostępny na dolnej belce a nie gdzieś na górze, Oraz to co mnie najbardziej denerwowało to brak przy wyłącznym audio opcji stop, jest pausa oraz play ale stop brak.</p>
 
-__4.Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność?__
+__4. Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność?__
 >* <p align="justify">Na pewno dodałam bym przy audio opcje stop. Dodałam być także opcje budowania playlisty, dodałam być również opcje zmiany ustawień nagrań, nie tylko głośności ale również tonu głosu, szybkości. Dodatkowo gdy wysyłam do kogoś linka do tej aplikacji to po jego włączeniu widoczna jest tylko opcja z subskrypcją brakuje informacji, że z aplikacji można korzystać w trybie gościa bez konieczności od razu podawania danych do karty kredytowej.</p>
 
-__5.Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?__
+__5. Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?__
 >* <p align="justify">Aplikacja natywna nie wymaga przeglądarki i działa offline. Aplikacja internetowa wymaga przeglądarki i dostępu do internetu.</p>
 
 ## $\textcolor{yellow}{Subtask\ 4}$

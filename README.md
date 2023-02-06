@@ -87,9 +87,9 @@ _Testowanie eksploracyjne i raportowanie błędów._ -  https://focusly.co/ / ht
 _Do czego służy ta aplikacja_ 
 
 __1.Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?__
-> * _**10** punktów_ :+1:
+> * _Aplikacja $\textcolor{red}{Focusly}$ skierowana jest do osób poszukujacych :+1:
 
-## $\textcolor{yelloe}{Subtask\ 4}$
+## $\textcolor{yellow}{Subtask\ 4}$
 _Dla grupy i chętnych. Sesja testów eksploracyjnych._
 
 ***

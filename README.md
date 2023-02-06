@@ -79,6 +79,7 @@ _Raport z wykonanych testów_ - https://docs.google.com/document/d/1xY9QshU_hse6
 _Dla grupy i chętnych. Sesja testów eksploracyjnych._
 
 # $\textcolor{yellow}{Task\ 4}$
+**Testowanie aplikacji mobilnych**
 ## $\textcolor{yellow}{Subtask\ 1}$
 _Utworzenie formatki do zgłaszania błędów systemu._ - https://docs.google.com/spreadsheets/d/1pFjhnMcJdCHPFbncKNLhGnc0equoQdS3hu2Hpt0OZl8/edit?usp=share_link
 ## $\textcolor{yellow}{Subtask\ 2}$

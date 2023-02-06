@@ -83,9 +83,9 @@ _Dla grupy i chętnych. Sesja testów eksploracyjnych._
 _Utworzenie formatki do zgłaszania błędów systemu._ - https://docs.google.com/spreadsheets/d/1pFjhnMcJdCHPFbncKNLhGnc0equoQdS3hu2Hpt0OZl8/edit?usp=share_link
 ## $\textcolor{yellow}{Subtask\ 2}$
 _Testowanie eksploracyjne i raportowanie błędów._ -  https://focusly.co/ / https://docs.google.com/spreadsheets/d/1pFjhnMcJdCHPFbncKNLhGnc0equoQdS3hu2Hpt0OZl8/edit?usp=share_link
-## $\textcolor{yelloe}{Subtask\ 3}$
+## $\textcolor{yellow}{Subtask\ 3}$
 _ Do czego służy ta aplikacja_ 
-> __1.Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?__
+__1.Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?__
 > * _**10** punktów_ :+1:
 
 ## $\textcolor{yelloe}{Subtask\ 4}$

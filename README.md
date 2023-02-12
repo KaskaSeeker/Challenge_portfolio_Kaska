@@ -105,5 +105,9 @@ __5. Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a
 ## $\textcolor{yellow}{Subtask\ 4}$
 _Dla grupy i chętnych. Sesja testów eksploracyjnych._
 
+
+# $\textcolor{purple}{Task\ 5 }$
+## $\textcolor{purple}{Subtask\ 2}$
+
 ***
 ***Kaśka***

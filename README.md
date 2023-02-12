@@ -108,6 +108,10 @@ _Dla grupy i chętnych. Sesja testów eksploracyjnych._
 
 # $\textcolor{purple}{Task\ 5 }$
 ## $\textcolor{purple}{Subtask\ 2}$
+ _1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname_
+  SELECT * FROM actors ORDER BY surname asc;
+  ![1](https://user-images.githubusercontent.com/121487022/218337228-869b5aee-054f-4e40-b32b-9412645ad2fb.jpg)
+
 
 ***
 ***Kaśka***

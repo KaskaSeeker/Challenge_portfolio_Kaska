@@ -122,15 +122,22 @@ _Dla grupy i chętnych. Sesja testów eksploracyjnych._
   ![1](https://user-images.githubusercontent.com/121487022/218338303-e17d891a-9a50-4ba6-b847-850941a3ddcb.jpg)
  _5. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN._
   SELECT * FROM actors WHERE actor_id >=4 and actor_id <=7;
-
-
-  
-
-  
-  
-
-
-
+  ![1](https://user-images.githubusercontent.com/121487022/218338431-7d245003-0854-447c-9521-74bb8d2c5345.jpg)
+ _6. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny._
+  SELECT * FROM customers WHERE customer_id IN(2,4,6);
+  ![1](https://user-images.githubusercontent.com/121487022/218338525-70a8556a-9dd4-492e-86fb-dc8300e8c5a0.jpg)
+ _7. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN._
+   SELECT * FROM customers WHERE customer_id IN(1,3,5);
+ ![1](https://user-images.githubusercontent.com/121487022/218338614-3a213de3-e904-4cef-a52c-955336f9273c.jpg)
+ _8. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”._
+  SELECT * FROM actors WHERE name LIKE 'AN%';
+ ![1](https://user-images.githubusercontent.com/121487022/218338713-881c1a79-659e-41a6-8e45-4233a17f68c8.jpg)
+ _9. Wyświetl dane klienta, który nie ma podanego adresu email._
+  SELECT * FROM customers WHERE email IS NULL;
+ ![1](https://user-images.githubusercontent.com/121487022/218338771-9e7c2882-3b09-461f-9e68-ade9f6b4dda5.jpg)
+ _10. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id._
+  SELECT * FROM movies WHERE price >9 AND movie_id BETWEEN 2 AND 8;
+ ![1](https://user-images.githubusercontent.com/121487022/218338904-f496ea89-b2f8-43c9-9b4f-cae03144482a.jpg)
 
 ***
 ***Kaśka***

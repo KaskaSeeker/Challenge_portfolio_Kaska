@@ -109,9 +109,11 @@ _Dla grupy i chętnych. Sesja testów eksploracyjnych._
 # $\textcolor{purple}{Task\ 5 }$
 ## $\textcolor{purple}{Subtask\ 3}$
  _1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname._
-  *SELECT * FROM actors ORDER BY surname asc;*
+ 
+  **SELECT * FROM actors ORDER BY surname asc;**
   ![1](https://user-images.githubusercontent.com/121487022/218337563-050f521c-a18b-43e3-8e5c-aa5b4099978b.jpg)
  _2. Wyświetl film, który powstał w 2019 roku._
+ 
   SELECT * FROM movies WHERE year_of_production='2019';
   ![1](https://user-images.githubusercontent.com/121487022/218338084-b1c6c81d-96e5-4339-bf5c-42bc2babb4d3.jpg)
  _3. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem._

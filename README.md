@@ -153,6 +153,39 @@ _Dla grupy i chętnych. Sesja testów eksploracyjnych._
 
 # $\textcolor{fuchsia}{Task\ 6 }$
 ## $\textcolor{fuchsia}{Subtask\ 1}$
+_11. Popełniłam błąd wpisując nazwisko Ani Miler – wpisałam Muler. Znajdź i zastosuj funkcję, która poprawi mój karkołomny błąd ._
+
+UPDATE customers SET surname = REPLACE("Muler", 'u', 'i') WHERE surname = "Muler";
+![1](https://user-images.githubusercontent.com/121487022/219965109-fe26612b-5bc9-48ab-8d83-14821a618ccd.jpg)
+_12. Pobrałam za dużo pieniędzy od klienta, który kupił w ostatnim czasie film o id 4. Korzystając z funkcji join sprawdź, jak ma na imię klient i jakiego ma maila. W celu napisania mu wiadomości o pomyłce fantastycznej szefowej._
+
+SELECT * from sale as S join customers as C ON S.customer_id=C.customer_id WHERE S.movie_id ="4";
+![1](https://user-images.githubusercontent.com/121487022/219965971-6af87718-fe8a-414f-9b8b-82c88da141b0.jpg)
+_13. Na pewno zauważył_ś, że sprzedawca zapomniał wpisać emaila klientce Patrycji. Uzupełnij ten brak wpisując: pati@mail.com_
+
+UPDATE customers SET email = 'pati@mail.com' WHERE email IS NULL;
+![1](https://user-images.githubusercontent.com/121487022/219966765-7502bad6-82d0-4d0e-a849-f3cb64dcc681.jpg)
+_14. Dla każdego zakupu wyświetl, imię i nazwisko klienta, który dokonał wypożyczenia oraz tytuł wypożyczonego filmu. (wykorzystaj do tego funkcję inner join, zastanów się wcześniej, które tabele Ci się przydadzą do wykonania ćwiczenia)._
+
+SELECT sale.customer_id, customers.customer_id, sale.movie_id, movies.movie_id,customers.name,customers.surname,movies.title from sale INNER join customers ON sale.customer_id=customers.customer_id INNER join movies ON sale.movie_id=movies.movie_id;
+![1](https://user-images.githubusercontent.com/121487022/219967691-afe703c6-2787-4dfe-b647-a195618faf89.jpg)
+
+_15. W celu anonimizacji danych, chcesz stworzyć pseudonimy swoich klientów. - Dodaj kolumnę o nazwie ‘pseudonym’ do tabeli customer,- Wypełnij kolumnę w taki sposób, aby pseudonim stworzył się z dwóch pierwszych liter imienia i ostatniej litery nazwiska. Np. Natalie Pilling → Nag._
+
+ALTER TABLE customers ADD pseudonym date;
+
+_16. Wyświetl tytuły filmów, które zostały zakupione, wyświetl tabelę w taki sposób, aby tytuły się nie powtarzały._
+
+SELECT DISTINCTROW title from sale as S join movies AS M ON S.movie_id=M.movie_id;
+![1](https://user-images.githubusercontent.com/121487022/219972458-63d5292a-88e2-495b-856c-de02d3921a73.jpg)
+
+_17. Wyświetl wspólną listę imion wszystkich aktorów i klientów, a wynik uporządkuj alfabetycznie. (Wykorzystaj do tego funkcji UNION)._
+
+SELECT name FROM customers UNION SELECT name FROM actors ORDER BY name;
+![1](https://user-images.githubusercontent.com/121487022/219972893-de5f799d-498f-40e2-9571-e78894d78bf5.jpg)
+
+_18.  Polskę opanowała inflacja i nasz sklepik z filmami również dotknął ten problem. Podnieś cenę wszystkich filmów wyprodukowanych po 2000 roku o 2,5 $ (Pamiętaj, że dolar to domyślna jednostka- nie używaj jej nigdzie).._
+
 
 ***
 ***Kaśka***

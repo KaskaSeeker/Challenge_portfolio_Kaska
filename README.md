@@ -150,5 +150,9 @@ _Dla grupy i chętnych. Sesja testów eksploracyjnych._
   SELECT * FROM movies WHERE price >9 AND movie_id BETWEEN 2 AND 8;
  ![1](https://user-images.githubusercontent.com/121487022/218338904-f496ea89-b2f8-43c9-9b4f-cae03144482a.jpg)
 
+
+# $\textcolor{pink}{Task\ 6 }$
+## $\textcolor{pink}{Subtask\ 1}$
+
 ***
 ***Kaśka***

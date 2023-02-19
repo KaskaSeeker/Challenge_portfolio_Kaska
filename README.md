@@ -151,8 +151,8 @@ _Dla grupy i chętnych. Sesja testów eksploracyjnych._
  ![1](https://user-images.githubusercontent.com/121487022/218338904-f496ea89-b2f8-43c9-9b4f-cae03144482a.jpg)
 
 
-# $\textcolor{pink}{Task\ 6 }$
-## $\textcolor{pink}{Subtask\ 1}$
+# $\textcolor{fuchsia}{Task\ 6 }$
+## $\textcolor{fuchsia}{Subtask\ 1}$
 
 ***
 ***Kaśka***

@@ -172,7 +172,7 @@ SELECT sale.customer_id, customers.customer_id, sale.movie_id, movies.movie_id,c
 
 _15. W celu anonimizacji danych, chcesz stworzyć pseudonimy swoich klientów. - Dodaj kolumnę o nazwie ‘pseudonym’ do tabeli customer,- Wypełnij kolumnę w taki sposób, aby pseudonim stworzył się z dwóch pierwszych liter imienia i ostatniej litery nazwiska. Np. Natalie Pilling → Nag._
 
-ALTER TABLE customers ADD pseudonym date;
+alter table customers add pseudonym varchar(100);
 
 _16. Wyświetl tytuły filmów, które zostały zakupione, wyświetl tabelę w taki sposób, aby tytuły się nie powtarzały._
 
@@ -184,8 +184,17 @@ _17. Wyświetl wspólną listę imion wszystkich aktorów i klientów, a wynik u
 SELECT name FROM customers UNION SELECT name FROM actors ORDER BY name;
 ![1](https://user-images.githubusercontent.com/121487022/219972893-de5f799d-498f-40e2-9571-e78894d78bf5.jpg)
 
-_18.  Polskę opanowała inflacja i nasz sklepik z filmami również dotknął ten problem. Podnieś cenę wszystkich filmów wyprodukowanych po 2000 roku o 2,5 $ (Pamiętaj, że dolar to domyślna jednostka- nie używaj jej nigdzie).._
+_18.  Polskę opanowała inflacja i nasz sklepik z filmami również dotknął ten problem. Podnieś cenę wszystkich filmów wyprodukowanych po 2000 roku o 2,5 $ (Pamiętaj, że dolar to domyślna jednostka- nie używaj jej nigdzie)._
 
+UPDATE movies SET price = PRICE+2.5 WHERE year_of_production> "2000";
+![1](https://user-images.githubusercontent.com/121487022/220175863-9d6b6ea8-3281-4bda-ba47-31794c48a136.jpg)
+
+_19. Wyświetl imię i nazwisko aktora o id 4 i tytuł filmu, w którym zagrał._
+
+SELECT cast.actor_id, actors.name, actors.surname,movies.title FROM cast, actors, movies WHERE cast.actor_id = actors.actor_id AND cast.movie_id = movies.movie_id AND actors.actor_id="4";
+![1](https://user-images.githubusercontent.com/121487022/220183205-e7776f23-5c79-4ebc-bc92-5ac00ba7be5f.jpg)
+
+_20. A gdzie nasza HONIA!? Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com oraz pseudonym = Hoa._
 
 ***
 ***Kaśka***

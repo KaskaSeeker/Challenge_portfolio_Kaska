@@ -196,5 +196,9 @@ SELECT cast.actor_id, actors.name, actors.surname,movies.title FROM cast, actors
 
 _20. A gdzie nasza HONIA!? Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com oraz pseudonym = Hoa._
 
+## $\textcolor{fuchsia}{Subtask\ 2}$
+![1](https://user-images.githubusercontent.com/121487022/220190898-4d578030-8f5d-4fc6-a6f8-0a9006b80ffd.jpg)
+
+
 ***
 ***Kaśka***

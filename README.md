@@ -174,6 +174,8 @@ _15. W celu anonimizacji danych, chcesz stworzyć pseudonimy swoich klientów. -
 
 alter table customers add pseudonym varchar(100);
 
+UPDATE customers SET pseudonym = LEFT(name, 2) + RIGHT(surname, 1);
+
 _16. Wyświetl tytuły filmów, które zostały zakupione, wyświetl tabelę w taki sposób, aby tytuły się nie powtarzały._
 
 SELECT DISTINCTROW title from sale as S join movies AS M ON S.movie_id=M.movie_id;
@@ -196,9 +198,11 @@ SELECT cast.actor_id, actors.name, actors.surname,movies.title FROM cast, actors
 
 _20. A gdzie nasza HONIA!? Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com oraz pseudonym = Hoa._
 
-## $\textcolor{fuchsia}{Subtask\ 2}$
-![1](https://user-images.githubusercontent.com/121487022/220190898-4d578030-8f5d-4fc6-a6f8-0a9006b80ffd.jpg)
+INSERT INTO customers VALUES ('7', 'Honia', 'Stuczka-Kucharska', 'honia@mail.com', 'Hoa');
+![1](https://user-images.githubusercontent.com/121487022/220194890-3312b18a-3dcf-450e-a471-f37b83b46e7d.jpg)
 
+## $\textcolor{fuchsia}{Subtask\ 2}$
+![1](https://user-images.githubusercontent.com/121487022/220191120-39f4733a-171c-4f1e-8850-6b9e38b221f0.jpg)
 
 ***
 ***Kaśka***

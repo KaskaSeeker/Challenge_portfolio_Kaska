@@ -20,7 +20,7 @@ $\textcolor{red}{in\ progress...}$
 
 ## $\textcolor{green}{Tools\ }$ 
 * Jira - bug tracker
-* Mantis - Bug Tracker
+* Mantis - bug Tracker
 * TestRail - test management
 
 $\textcolor{red}{in\ progress...}$

@@ -205,7 +205,7 @@ INSERT INTO customers VALUES ('7', 'Honia', 'Stuczka-Kucharska', 'honia@mail.com
 ![1](https://user-images.githubusercontent.com/121487022/220191120-39f4733a-171c-4f1e-8850-6b9e38b221f0.jpg)
 
 ## $\textcolor{fuchsia}{Subtask\ 3}$
-
+ [**Portfolio**](https://github.com/KaskaSeeker/Challenge_portfolio_Kaska/blob/main/Portfolio.MD)
 
 ***
 ***Kaśka***

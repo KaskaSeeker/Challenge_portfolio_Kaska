@@ -204,5 +204,8 @@ INSERT INTO customers VALUES ('7', 'Honia', 'Stuczka-Kucharska', 'honia@mail.com
 ## $\textcolor{fuchsia}{Subtask\ 2}$
 ![1](https://user-images.githubusercontent.com/121487022/220191120-39f4733a-171c-4f1e-8850-6b9e38b221f0.jpg)
 
+## $\textcolor{fuchsia}{Subtask\ 3}$
+
+
 ***
 ***Kaśka***

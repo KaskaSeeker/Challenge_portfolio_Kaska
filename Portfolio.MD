@@ -15,24 +15,28 @@ as well as I write VBA macros.</p>
 * [Become a Tester](https://sii.pl/en/trainings/offer/zostan-testerem/) - Sii Poland
 * [JavaScript](https://girlsjs.pl/) - girls.js
 * [MySQL tworzenie i zarządzanie bazami danych](https://www.udemy.com/course/mysql-tworzenie-i-zarzadzanie-bazami-danych/) - Udemy
-**in progress**
+
+$\textcolor{red}{in\ progress...}$
 
 ## $\textcolor{green}{Tools\ }$ 
 * Jira - bug tracker
 * Mantis - Bug Tracker
 * TestRail - test management
-**in progress**
+
+$\textcolor{red}{in\ progress...}$
 
 
 ## $\textcolor{green}{Tech\ skills }$ 
 * VBA
 * DevTools
 * SQL
-**in progress**
+
+$\textcolor{red}{in\ progress...}$
 
 ## $\textcolor{green}{Books\ }$
 *  _Certyfikowany tester ISTQB. Poziom podstawowy_ - Adam Roman, Lucjan Stapp
- **in progress**
+
+$\textcolor{red}{in\ progress...}$
 
 ## $\textcolor{green}{Groups\ on\ Linkedin}$
 * Women in Technology Poland
@@ -41,17 +45,20 @@ as well as I write VBA macros.</p>
 * Girls Who Test
 * girls.js
 * Perspektywy Women in Tech
-**in progress**
+
+$\textcolor{red}{in\ progress...}$
 
 ## $\textcolor{green}{Websites\ recommendation}$
 * [testerzy.pl](https://testerzy.pl/)
 * [dlaTesterów.pl](https://www.dlatesterow.pl/)
 * [FunQA](https://www.funqa.pl/)
-**in progress**
+
+$\textcolor{red}{in\ progress...}$
 
 ## $\textcolor{green}{My\ projects}$
-  [Test Case examples](https://drive.google.com/drive/folders/1nurUVUWwYIHWqr51Kxq8gV_DZNtsR-ab?hl=pl)
-  [Bug examples](https://docs.google.com/spreadsheets/d/12EuJSMnDSLTuqU_cqPDJ0bmXj91PsR7cnLsZwDZrNfE/edit?usp=share_link)
-**in progress**
+ * [Test Case examples](https://drive.google.com/drive/folders/1nurUVUWwYIHWqr51Kxq8gV_DZNtsR-ab?hl=pl)
+ * [Bug examples](https://docs.google.com/spreadsheets/d/12EuJSMnDSLTuqU_cqPDJ0bmXj91PsR7cnLsZwDZrNfE/edit?usp=share_link)
+ 
+$\textcolor{red}{in\ progress...}$
 
 
